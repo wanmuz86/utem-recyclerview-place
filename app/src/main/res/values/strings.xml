@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PlaceRecylerView</string>
+    <string-array name="title">
+        <item>Kuala Lumpur</item>
+        <item>Putrajaya</item>
+        <item>Batu Caves</item>
+
+    </string-array>
+    <string-array name="description">
+        <item>Ibu kota Malaysia. Perlu dilawati</item>
+        <item>Bandar pentadbiran di Malaysia yang terusun</item>
+        <item>Tempat keagamaan boleh lawat untuk naik tangga yang banyak.</item>
+    </string-array>
+    <string-array name="pictures">
+        <item>@drawable/kuala_lumpur</item>
+        <item>@drawable/putrajaya</item>
+        <item>@drawable/batu_caves</item>
+    </string-array>
+</resources>
